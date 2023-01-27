@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/NewGameButtonTexture1.png-c56afda23ce956f64679266d9faee8a6.stex"
+path="res://.import/NewGameButtonTexture1.png-b6e8930da24d2dac96fde4f636abee68.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://StartMenuAssets/NewGameButtonTexture1.png"
-dest_files=[ "res://.import/NewGameButtonTexture1.png-c56afda23ce956f64679266d9faee8a6.stex" ]
+source_file="res://Assets/NewGameButtonTexture1.png"
+dest_files=[ "res://.import/NewGameButtonTexture1.png-b6e8930da24d2dac96fde4f636abee68.stex" ]
 
 [params]
 
